@@ -3,3 +3,7 @@ pmOnFail: ignore
 minimumReleaseAgeExclude:
   - '@next/*'
   - next
+  - '@ai-sdk/gateway@4.0.101'
+  - '@ai-sdk/provider-utils@5.0.52'
+  - '@ai-sdk/provider@4.0.20'
+  - ai@7.0.123
