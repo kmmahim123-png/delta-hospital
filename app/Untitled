@@ -1,4 +1,0 @@
-git status
-git add .
-git commit -m "Add package.json to root"
-git push origin main
